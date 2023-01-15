@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/2nBAT-tecno-simulator/static/css/main.2b778a0f.css",
+    "main.js": "/2nBAT-tecno-simulator/static/js/main.6d6b1964.js",
+    "static/js/787.12b47cf8.chunk.js": "/2nBAT-tecno-simulator/static/js/787.12b47cf8.chunk.js",
+    "index.html": "/2nBAT-tecno-simulator/index.html",
+    "main.2b778a0f.css.map": "/2nBAT-tecno-simulator/static/css/main.2b778a0f.css.map",
+    "main.6d6b1964.js.map": "/2nBAT-tecno-simulator/static/js/main.6d6b1964.js.map",
+    "787.12b47cf8.chunk.js.map": "/2nBAT-tecno-simulator/static/js/787.12b47cf8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b778a0f.css",
+    "static/js/main.6d6b1964.js"
+  ]
+}
